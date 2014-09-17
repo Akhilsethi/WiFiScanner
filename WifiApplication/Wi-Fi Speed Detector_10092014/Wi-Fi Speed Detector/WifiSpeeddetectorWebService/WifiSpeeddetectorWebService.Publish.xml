@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="D:\Publish\">
+    <file relUrl="bin/WifiSpeeddetectorWebService.pdb" publishTime="08/22/2014 11:30:53" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="06/20/2013 00:34:56" />
+    <file relUrl="bin/WifiSpeeddetectorWebService.dll" publishTime="08/22/2014 11:30:54" />
+    <file relUrl="Service1.asmx" publishTime="07/16/2014 15:30:18" />
+    <file relUrl="Web.config" publishTime="07/28/2014 18:11:57" />
+  </publishTarget>
+</publishData>

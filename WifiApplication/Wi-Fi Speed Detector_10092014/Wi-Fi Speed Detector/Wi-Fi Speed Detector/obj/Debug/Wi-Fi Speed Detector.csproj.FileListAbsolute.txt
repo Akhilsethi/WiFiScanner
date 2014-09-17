@@ -1,0 +1,10 @@
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi_Fi_Speed_Detector.Form1.resources
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi_Fi_Speed_Detector.Properties.Resources.resources
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi-Fi Speed Detector.csproj.GenerateResource.Cache
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\bin\Debug\Wi-Fi Speed Detector.exe
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\bin\Debug\Wi-Fi Speed Detector.pdb
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi-Fi Speed Detector.exe
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi-Fi Speed Detector.pdb
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\WiFiSpeedDetector.Form1.resources
+C:\Users\Akhila\Documents\Visual Studio 2008\Projects\Wi-Fi Speed Detector\Wi-Fi Speed Detector\obj\Debug\Wi_Fi_Speed_Detector.frmGetAllDevice.resources

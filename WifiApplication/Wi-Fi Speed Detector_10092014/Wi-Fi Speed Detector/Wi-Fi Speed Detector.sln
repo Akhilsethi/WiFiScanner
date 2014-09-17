@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiFiSpeedDetector", "Wi-Fi Speed Detector\WiFiSpeedDetector.csproj", "{08131A7E-99A0-4071-86D1-07B860AD915F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4654A9DF-ED0C-4192-B84F-9E061058917F} = {4654A9DF-ED0C-4192-B84F-9E061058917F}
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWi-Fi Speed Detector", "SetupWi-Fi Speed Detector\SetupWi-Fi Speed Detector.vdproj", "{83AE30F8-7FE3-4C9E-83ED-AE777B314841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedWifi", "D:\Code\managedwifi-41381\ManagedWifi.csproj", "{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiSpeeddetectorWebService", "WifiSpeeddetectorWebService\WifiSpeeddetectorWebService.csproj", "{4654A9DF-ED0C-4192-B84F-9E061058917F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08131A7E-99A0-4071-86D1-07B860AD915F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08131A7E-99A0-4071-86D1-07B860AD915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08131A7E-99A0-4071-86D1-07B860AD915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08131A7E-99A0-4071-86D1-07B860AD915F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AE30F8-7FE3-4C9E-83ED-AE777B314841}.Debug|Any CPU.ActiveCfg = Debug
+		{83AE30F8-7FE3-4C9E-83ED-AE777B314841}.Release|Any CPU.ActiveCfg = Release
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA425C9-EA6A-4B01-AAED-5FF122E8B663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4654A9DF-ED0C-4192-B84F-9E061058917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4654A9DF-ED0C-4192-B84F-9E061058917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4654A9DF-ED0C-4192-B84F-9E061058917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4654A9DF-ED0C-4192-B84F-9E061058917F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
